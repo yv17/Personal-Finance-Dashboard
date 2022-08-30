@@ -6,4 +6,4 @@ I am passionate about all things data & BI. As I work with business stakeholders
 
 Hence, I am documenting my journey here in iterating my Power BI dashboard to track my personal finance, which I will update from time to time.
 
-![v1.0](https://github.com/yv17/Personal-Finance-Dashboard/images/v1.0)
+![v1.0](https://github.com/yv17/Personal-Finance-Dashboard/blob/main/images/v1.0.png)
